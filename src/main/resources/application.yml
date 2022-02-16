@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: book
+      uri: mongodb://localhost:27017
